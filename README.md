@@ -1,7 +1,3 @@
-# auto_url_scheme
-Automatic completion of the scheme in URLs
-
-Complete the scheme of the URLs and allow selecting the previous domain and TLD.
 # URL Scheme Completer
 
 This script processes a list of paths from a text file and generates complete URLs by appending a specified domain and scheme (`http`). The resulting URLs are saved in an output file.
