@@ -2,7 +2,7 @@
 
 This script processes a list of paths from a text file and generates complete URLs by appending a specified domain and scheme (`http`). The resulting URLs are saved in an output file.
 
-* [scheme][domain][tls]/URL
+* [scheme][domain][tld]/URL
 
 ## Features
 
