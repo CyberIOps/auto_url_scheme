@@ -4,6 +4,10 @@ This script processes a list of paths from a text file and generates complete UR
 
 * [scheme][domain][tld]/URL
 
+If not specific domain specified, it generates URLs like this:
+
+* [scheme]/URL
+
 ## Features
 
 - Reads a list of paths from an input file.
